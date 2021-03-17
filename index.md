@@ -8,7 +8,7 @@
       <p><b>政治面貌：党员</b></p>
     </td>
     <td width="25%">
-      <img src="/selfie.png" width="100%">      % 插入证件照代码
+      <img src="/selfie.png" width="100%">
     </td>
   </tr>
 </table>
